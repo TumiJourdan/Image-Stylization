@@ -10,7 +10,7 @@ Below are three example outputs generated using the techniques described in this
 
 | **Charcoal Drawing** | **Cartoonized Image** | **Van Gogh-Style Painting** |
 |-----------------------|-----------------------|-----------------------------|
-| ![Charcoal](#)       | ![Cartoon](#)        | ![VanGogh](#)              |
+| ![Charcoal]("Final Images/charcoal.png")       | ![Cartoon](#)        | ![VanGogh](#)              |
 
 ## Features
 
@@ -42,4 +42,4 @@ Below are three example outputs generated using the techniques described in this
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/TumiJourdan/Image-Stylization.git>
