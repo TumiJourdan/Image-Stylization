@@ -10,7 +10,7 @@ Below are three example outputs generated using the techniques described in this
 
 | **Charcoal Drawing** | **Cartoonized Image** | **Van Gogh-Style Painting** |
 |-----------------------|-----------------------|-----------------------------|
-| ![Charcoal](Final\ Images/charcoal.png)     | ![Cartoon](#)        | ![VanGogh](#)              |
+| ![Charcoal](Final_Images/charcoal.png)     | ![Cartoon](#)        | ![VanGogh](#)              |
 
 ## Features
 
